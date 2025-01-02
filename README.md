@@ -6,14 +6,14 @@ JoyGen: Audio-Driven 3D Depth-Aware Talking-Face Video Editing
 <table class="center">
 <tr>
     <td width=30% style="border: none">
-        <video controls loop src="https://github.com/JOY-MM/JoyGen/blob/gh-pages/assets/eng01_female_xinwen01.mp4"  muted="false"></video>
+        <video controls loop src="https://joy-mm.github.io/JoyGen/assets/eng01_female_xinwen01.mp4"  muted="false"></video>
     </td>
     <td width=30% style="border: none">
-        <video controls loop src="https://github.com/JOY-MM/JoyGen/blob/gh-pages/assets/eng03_female_xinwen03.mp4" 
+        <video controls loop src="https://joy-mm.github.io/JoyGen/assets/eng03_female_xinwen03.mp4" 
         muted="false"></video>
     </td>
     <td width=30% style="border: none">
-        <video controls loop src="https://github.com/JOY-MM/JoyGen/blob/gh-pages/assets/eng04_male_xinwen04.mp4" muted="false"></video>
+        <video controls loop src="https://joy-mm.github.io/JoyGen/assets/eng04_male_xinwen04.mp4" muted="false"></video>
     </td>
 </tr>
 </table>
@@ -22,13 +22,13 @@ JoyGen: Audio-Driven 3D Depth-Aware Talking-Face Video Editing
 <table class="center">
 <tr>
     <td width=30% style="border: none">
-        <video controls loop src="https://github.com/JOY-MM/JoyGen/blob/gh-pages/assets/ch02_female_eng03_female.mp4" muted="false"></video>
+        <video controls loop src="https://joy-mm.github.io/JoyGen/assets/ch02_female_eng03_female.mp4" muted="false"></video>
     </td>
     <td width=30% style="border: none">
-        <video controls loop src="https://github.com/JOY-MM/JoyGen/blob/gh-pages/assets/ch03_male_eng04_male.mp4" muted="false"></video>
+        <video controls loop src="https://joy-mm.github.io/JoyGen/assets/ch03_male_eng04_male.mp4" muted="false"></video>
     </td>
     <td width=30% style="border: none">
-        <video controls loop src="https://github.com/JOY-MM/JoyGen/blob/gh-pages/assets/ch04_female_eng05_female.mp4" muted="false"></video>
+        <video controls loop src="https://joy-mm.github.io/JoyGen/assets/ch04_female_eng05_female.mp4" muted="false"></video>
     </td>
 </tr>
 </table>

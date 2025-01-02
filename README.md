@@ -5,15 +5,14 @@ JoyGen: Audio-Driven 3D Depth-Aware Talking-Face Video Editing
 ### Driving Audio(Chinese)
 <table class="center">
 <tr>
-    <td width=30% style="border: none">
-        <video controls loop src="https://joy-mm.github.io/JoyGen/assets/eng01_female_xinwen01.mp4"  muted="false"></video>
+    <td width=25% style="border: none">
+        <video controls loop src="https://github.com/user-attachments/assets/bad0b728-c0f1-46d8-b608-49ebb6d438a8" muted="false"></video>
     </td>
-    <td width=30% style="border: none">
-        <video controls loop src="https://joy-mm.github.io/JoyGen/assets/eng03_female_xinwen03.mp4" 
-        muted="false"></video>
+    <td width=25% style="border: none">
+        <video controls loop src="https://github.com/user-attachments/assets/a1697fd7-3f1a-42ba-ac89-79ff73a339f0" muted="false"></video>
     </td>
-    <td width=30% style="border: none">
-        <video controls loop src="https://joy-mm.github.io/JoyGen/assets/eng04_male_xinwen04.mp4" muted="false"></video>
+    <td width=25% style="border: none">
+        <video controls loop src="https://github.com/user-attachments/assets/c34e7d4f-ffad-42df-a458-e873cba6a5dc" muted="false"></video>
     </td>
 </tr>
 </table>
@@ -21,17 +20,18 @@ JoyGen: Audio-Driven 3D Depth-Aware Talking-Face Video Editing
 ### Driving Audio(English)
 <table class="center">
 <tr>
-    <td width=30% style="border: none">
-        <video controls loop src="https://joy-mm.github.io/JoyGen/assets/ch02_female_eng03_female.mp4" muted="false"></video>
+    <td width=25% style="border: none">
+        <video controls loop src="https://github.com/user-attachments/assets/da497c52-82de-4df6-a0e0-b2289f860776" muted="false"></video>
     </td>
-    <td width=30% style="border: none">
-        <video controls loop src="https://joy-mm.github.io/JoyGen/assets/ch03_male_eng04_male.mp4" muted="false"></video>
+    <td width=25% style="border: none">
+        <video controls loop src="https://github.com/user-attachments/assets/f320832f-31cd-443e-9721-ee78955e64ba" muted="false"></video>
     </td>
-    <td width=30% style="border: none">
-        <video controls loop src="https://joy-mm.github.io/JoyGen/assets/ch04_female_eng05_female.mp4" muted="false"></video>
+    <td width=25% style="border: none">
+        <video controls loop src="https://github.com/user-attachments/assets/4e9e3089-2b14-4ced-9a96-210ac6c56072" muted="false"></video>
     </td>
 </tr>
 </table>
+
 
 ## Installation
 ### Python Environment

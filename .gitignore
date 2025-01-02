@@ -1,0 +1,10 @@
+checkpoints
+pretrained_models
+docs
+results*
+__pycache__/
+.ipynb_checkpoints/
+.idea/
+tmp/
+*.npy
+*.tar

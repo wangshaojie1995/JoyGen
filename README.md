@@ -7,13 +7,13 @@ JoyGen: Audio-Driven 3D Depth-Aware Talking-Face Video Editing
 <table class="center">
 <tr>
     <td width=25% style="border: none">
-        <video controls loop src="https://github.com/user-attachments/assets/bad0b728-c0f1-46d8-b608-49ebb6d438a8" muted="false"></video>
+        <video controls loop src="https://github.com/user-attachments/assets/e6ade600-c850-4408-b1fd-569ce5a8049c" muted="false"></video>
     </td>
     <td width=25% style="border: none">
-        <video controls loop src="https://github.com/user-attachments/assets/a1697fd7-3f1a-42ba-ac89-79ff73a339f0" muted="false"></video>
+        <video controls loop src="https://github.com/user-attachments/assets/2c5443bc-c0cb-4026-9d1e-3616e56c49ce" muted="false"></video>
     </td>
     <td width=25% style="border: none">
-        <video controls loop src="https://github.com/user-attachments/assets/c34e7d4f-ffad-42df-a458-e873cba6a5dc" muted="false"></video>
+        <video controls loop src="https://github.com/user-attachments/assets/2e53ad62-abc2-4ff2-823b-a9cb1ee9f0ca" muted="false"></video>
     </td>
 </tr>
 </table>
@@ -22,13 +22,13 @@ JoyGen: Audio-Driven 3D Depth-Aware Talking-Face Video Editing
 <table class="center">
 <tr>
     <td width=25% style="border: none">
-        <video controls loop src="https://github.com/user-attachments/assets/da497c52-82de-4df6-a0e0-b2289f860776" muted="false"></video>
+        <video controls loop src="https://github.com/user-attachments/assets/1b69e702-9825-4db1-bdd2-7f8c6f6d8352" muted="false"></video>
     </td>
     <td width=25% style="border: none">
-        <video controls loop src="https://github.com/user-attachments/assets/f320832f-31cd-443e-9721-ee78955e64ba" muted="false"></video>
+        <video controls loop src="https://github.com/user-attachments/assets/4e5c5984-6e44-4d7d-a62a-73cad597233e" muted="false"></video>
     </td>
     <td width=25% style="border: none">
-        <video controls loop src="https://github.com/user-attachments/assets/4e9e3089-2b14-4ced-9a96-210ac6c56072" muted="false"></video>
+        <video controls loop src="https://github.com/user-attachments/assets/e4a1eb95-ff95-4949-adf9-23db7028c4d5" muted="false"></video>
     </td>
 </tr>
 </table>

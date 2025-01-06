@@ -1,6 +1,26 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) ![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)
-# JoyGen
-JoyGen: Audio-Driven 3D Depth-Aware Talking-Face Video Editing
+
+<h1 align="center">JoyGen: Audio-Driven 3D Depth-Aware Talking-Face Video Editing</h1>
+
+<div align='center'>
+    <strong>Qili Wang</strong><sup> 1</sup>&emsp;
+    <strong>Dajiang Wu</strong><sup> 1</sup>&emsp;
+    <strong>Zihang Xu</strong><sup> 2</sup>&emsp;
+    <strong>Junshi Huang</strong><sup> 1</sup>&emsp;
+    <strong>Jun Lv</strong><sup> 1</sup>&emsp;
+</div>
+
+
+<div align='center'>
+    <sup>1 </sup>JD.Com, Inc.&emsp; <sup>2 </sup>The University of Hong Kong&emsp;
+</div>
+
+<div align='center'>
+    <a href='https://arxiv.org/pdf/2501.01798' target='_blank'><strong>Technical Report</strong>&emsp; </a>
+    <a href='https://github.com/JOY-MM/JoyGen' target='_blank'><strong>HomePage</strong> &emsp; </a>
+</div>
+
+<br>
 
 ## ShowCase
 ### Driving Audio(Chinese)
@@ -54,7 +74,8 @@ pip install .
 ```
 
 ### Download pretrained weights
-These pretrained models should be organized as follows:
+These pretrained models should be organized as follows: &emsp;[Download link](https://drive.google.com/file/d/1kvGsljFRnXKUK_ETdd49jJy8DbdgZKkE)
+
 ```text
 ./pretrained_models/
 ├── BFM
@@ -107,12 +128,16 @@ Or you can download them separately:
 - [audio2motion](https://github.com/yerfor/Real3DPortrait)
 - [hubert](https://huggingface.co/facebook/hubert-large-ls960-ft/tree/main)
 - [BFM](https://github.com/sicxu/Deep3DFaceRecon_pytorch?tab=readme-ov-file#prepare-prerequisite-models)
-- [joygen]()
+- [joygen](https://drive.google.com/file/d/1D5-rU70kvi_PNI_YPvWwNFDEJ-nobzLN/view)
 - [dwpose](https://github.com/IDEA-Research/DWPose)
 - [face_recon_feat0.2_augment](https://github.com/sicxu/Deep3DFaceRecon_pytorch?tab=readme-ov-file#prepare-prerequisite-models)
 - [face-parse-bisent](https://github.com/zllrunning/face-parsing.PyTorch)
 - [sd-vae-ft-mse](https://huggingface.co/stabilityai/sd-vae-ft-mse)
 - [whisper](https://openaipublic.azureedge.net/main/whisper/models/65147644a518d12f04e32d6f3b26facc3f8dd46e5390956a9424a650c0ce22b9/tiny.pt)
+
+
+## Dataset
+We provide the video URLs.  [Download link](https://drive.google.com/drive/folders/1d9MVmYhdlVoIdSL05N0IIKma2kih6cUq?dmr=1&ec=wgc-drive-hero-goto)
 
 
 ## Inference
@@ -198,12 +223,13 @@ We would like to thank the contributors to the [Deep3DFaceRecon_pytorch](https:/
 
 ## Citation
 ```
-@misc{xx,
+@misc{wang2025joygenaudiodriven3ddepthaware,
       title={JoyGen: Audio-Driven 3D Depth-Aware Talking-Face Video Editing}, 
-      author={xx,xx},
-      year={2024},
-      eprint={24},
+      author={Qili Wang and Dajiang Wu and Zihang Xu and Junshi Huang and Jun Lv},
+      year={2025},
+      eprint={2501.01798},
       archivePrefix={arXiv},
-      primaryClass={cs.CV}
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2501.01798}, 
 }
 ```

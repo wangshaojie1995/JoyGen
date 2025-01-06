@@ -16,8 +16,9 @@
 </div>
 
 <div align='center'>
-    <a href='https://arxiv.org/pdf/2501.01798' target='_blank'><strong>Technical Report</strong>&emsp; </a>
-    <a href='https://github.com/JOY-MM/JoyGen' target='_blank'><strong>HomePage</strong> &emsp; </a>
+    <a href='https://arxiv.org/pdf/2501.01798' style="text-decoration: none;"><strong>Technical Report</strong> </a>
+    <br>
+    <a href='https://github.com/JOY-MM/JoyGen' style="text-decoration: none;"><strong>HomePage</strong> </a>
 </div>
 
 <br>

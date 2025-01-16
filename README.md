@@ -57,6 +57,7 @@
 
 ## Installation
 ### Python Environment
+For any installation issues, please refer to [Issue #5](https://github.com/JOY-MM/JoyGen/issues/6)
 - Tested GPUS: V100, A800
 - Tested Python Version: 3.8.19
 

@@ -149,8 +149,8 @@ Or you can download them separately:
 
 
 ## Dataset
-We provide the video URLs.  [Download link](https://drive.google.com/drive/folders/1d9MVmYhdlVoIdSL05N0IIKma2kih6cUq?dmr=1&ec=wgc-drive-hero-goto)
-For video download, please refer to [f2](https://github.com/Johnserf-Seed/f2)
+- We provide the video URLs.  [Download link](https://drive.google.com/drive/folders/1d9MVmYhdlVoIdSL05N0IIKma2kih6cUq?dmr=1&ec=wgc-drive-hero-goto)
+- For video download, please refer to [f2](https://github.com/Johnserf-Seed/f2)
 
 ## Inference
 Run the inference script:
@@ -200,6 +200,11 @@ python -u inference_edit_expression.py \
 
 
 ## Training
+
+### Trim and crop videos
+```
+python -u preprocess_trim_crop_video.py videos_dir results_dir
+```
 
 ### Preprocess Training Data
 
